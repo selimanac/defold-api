@@ -1,0 +1,16 @@
+site_name: "Defold API"
+repo_url: "https://github.com/selimanac/defold-api"
+repo_name: 'GitHub'
+
+theme:
+ name: 'material'
+
+markdown_extensions:
+ - smarty
+ - codehilite
+ - admonition
+ - toc:
+     permalink: true
+
+plugins:
+ - search
